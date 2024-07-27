@@ -5,7 +5,7 @@ MA, Quantitative Economics, UCLA
 BA, Economics & Diplomacy
 
 ### Work Experience
-Corporate Financial Data Analyst Intern @ Prime Healthcare 
+Corporate Financial Data Analyst Intern @ Prime Healthcare \n
 
 Economic Research Assistn @ Numerator
 
