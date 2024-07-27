@@ -2,7 +2,7 @@
 
 ### Education
 MA, Quantitative Economics, UCLA
-<br>BA, Economics & Diplomacy
+<br>BA, Economics & Diplomacy, National Chengchi University
 
 ### Work Experience
 Corporate Financial Data Analyst Intern @ Prime Healthcare 
