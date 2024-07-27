@@ -6,7 +6,7 @@ MA, Quantitative Economics, UCLA
 
 ### Work Experience
 Corporate Financial Data Analyst Intern @ Prime Healthcare 
-<br>Economic Research Assistn @ Numerator
+<br>Economic Research Assistant @ Numerator
 <br>Project Manager @ BioLife Medical Device Inc. 
 <br>Staff Writer @ Taipei News
 
