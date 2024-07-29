@@ -1,5 +1,19 @@
-# Vita 
-**[LinkedIn](https://www.linkedin.com/in/li-hwan-kao/)**
+Hello! Thank you for your interest. 
+
+My name is Eric and I interested in bringing forth meaningful impact with economics and data science.
+
+Growing up with an international perspective has shaped my worldview and fostered adaptability. My academic journey has been grounded in rigorous training of economics, international relations, and quantitative methods. 
+
+In the professional realm, I have thrived in the healthcare industry as a project manager. Over the years, I've navigated complex projects, honing my ability to strategize, collaborate, and deliver results in dynamic settings.
+
+Currently seeking new opportunities, I am eagerly on the lookout for roles that allow me to integrate quantitative approaches and their broader applications into operational problem solving.
+
+Click [here](https://www.linkedin.com/in/li-hwan-kao/){:target="_blank"}  
+to visit my LinkedIn page.
+ 
+Looking forward to connect!
+
+# Vita
 
 **Technical Skills**
 - **Statistical and Data Analysis:** Python, R, Stata
