@@ -20,12 +20,12 @@ Looking forward to connect!
 - **Other:** Microsoft Suite, LATEX
 
 
-### Education
+## Education
 - MA, Quantitative Economics | UCLA (_June 2024_)
 - BA, Economics & Diplomacy | National Chengchi University (_June 2018_)
 - Academic Studies Abroad, Economics | Universidad Carlos III de Madrid (_June 2017_)
 
-### Work Experience
+## Work Experience
 **Corporate Financial Data Analyst Intern @ Prime Healthcare (_Aug 2023 - Sep 2023, Ontario CA_)**
 - Contributed to Revenue Cycle Operations and Analysis by determining pricing for Medicare inpatient and outpatient
 services claims across 16 California-based hospitals. Additionally, developed and recommended process improvement strategies for pricing methodologies related to Medicare in-patient claims.
@@ -51,16 +51,16 @@ biotechnology venture capital firms based in Asia and North America with product
 **Staff Writer @ Taipei News (_Nov 2017 - Feb 2018, Taiwan_)**
 - Wrote English news articles with concentration on international business, global politics and health policy issues.
 
-### Projects
+## Projects
 **Alternative Fuel Vehicle (EV) Market De-carbonization Analysis @ UCLA (_Jan 2023 - June 2023_)**
 - Collaborate as Student Consultant with data consulting company Emerton on comprehensive study on the current state of transition towards alternative fuel types for heavy-duty vehicles in selected markets (US, UK, Germany, France), thereby assessing overall decarbonization timeline and potential.
 
-### Leadership & Extracurricular
+## Leadership & Extracurricular
 **Taiwan Youth Representative @ Guanxi Academy of Social Science (_Summer 2018, Guaxi, China_)**
 - Led discussions related to cross-strait cultural and political relations with researchers of Taiwan Studies.
 
 **National Chengchi University Delegate @ The National Model United Nations New York Conference (_April 2016, NYC_)**
 - Representative in UN Environment Program Assembly and awarded ”Honorable Mention Delegation” by Assembly.
 
-### Languages
+## Languages
 English (native), Mandarin (native), Spanish (advanced - B2), French (beginner)
