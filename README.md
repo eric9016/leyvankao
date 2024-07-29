@@ -12,15 +12,15 @@
 - Academic Studies Abroad, Economics | Universidad Carlos III de Madrid (_June 2017_)
 
 ### Work Experience
-**Corporate Financial Data Analyst Intern @ Prime Healthcare (_Aug 2023 - Sep 2023_)**
+**Corporate Financial Data Analyst Intern @ Prime Healthcare (_Aug 2023 - Sep 2023, Ontario CA_)**
 - Contributed to Revenue Cycle Operations and Analysis by determining pricing for Medicare inpatient and outpatient
 services claims across 16 California-based hospitals. Additionally, developed and recommended process improvement strategies for pricing methodologies related to Medicare in-patient claims.
 
-**Economic Research Assistant @ Numerator (_June 2023 - Sep 2023_)**
+**Economic Research Assistant @ Numerator (_June 2023 - Sep 2023, Remote_)**
 - Collaborated with Chief Economist Leo Feler in developing a recursive regression model for real-time prediction of monthly US Advance Retail Sales using panel data on nationwide household spending, as reported by the Census Bureau. Findings
 shared with economists at Chicago Fed.
 
-**Project Manager @ BioLife Medical Device Inc. (_May 2019 - Dec 2021_)**
+**Project Manager @ BioLife Medical Device Inc. (_May 2019 - Dec 2021, Taiwan_)**
 - Oversaw R&D processes of 2 minimally invasive spinal implant products. Collaboration with surgical physicians to ensure
 current needs regarding treatment effects and surgical ease of vertebral compression fractures are satisfied.
 - Devised product testing protocol following ASTM standards to ensure safe-of-use and maximum mechanical strength.
