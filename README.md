@@ -1,6 +1,6 @@
 Hello! Thank you for your interest. 
 
-My name is Eric and I interested in bringing forth meaningful impact with economics and data science.
+My name is Eric and I am interested in bringing forth meaningful impact with economics and data science.
 
 Growing up with an international perspective has shaped my worldview and fostered adaptability. My academic journey has been grounded in rigorous training of economics, international relations, and quantitative methods. 
 
