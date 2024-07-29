@@ -1,4 +1,5 @@
-# Vita
+# Vita 
+**[LinkedIn](https://www.linkedin.com/in/li-hwan-kao/)**
 
 **Technical Skills**
 - **Statistical and Data Analysis:** Python, R, Stata
@@ -50,6 +51,3 @@ biotechnology venture capital firms based in Asia and North America with product
 
 ### Languages
 English (native), Mandarin (native), Spanish (advanced - B2), French (beginner)
-
-### Social Media
-**[LinkedIn](https://www.linkedin.com/in/li-hwan-kao/)**
