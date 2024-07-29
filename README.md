@@ -39,7 +39,7 @@ biotechnology venture capital firms based in Asia and North America with product
 
 ### Projects
 **Alternative Fuel Vehicle (EV) Market De-carbonization Analysis @ UCLA (_Jan 2023 - June 2023_)**
--Collaborate as Student Consultant with data consulting company Emerton on comprehensive study on the current state of transition towards alternative fuel types for heavy-duty vehicles in selected markets (US, UK, Germany, France), thereby assessing overall decarbonization timeline and potential.
+- Collaborate as Student Consultant with data consulting company Emerton on comprehensive study on the current state of transition towards alternative fuel types for heavy-duty vehicles in selected markets (US, UK, Germany, France), thereby assessing overall decarbonization timeline and potential.
 
 ### Leadership & Extracurricular
 **Taiwan Youth Representative @ Guanxi Academy of Social Science (_Summer 2018, Guaxi, China_)**
@@ -49,4 +49,4 @@ biotechnology venture capital firms based in Asia and North America with product
 - Representative in UN Environment Program Assembly and awarded ”Honorable Mention Delegation” by Assembly.
 
 ### Languages
-English (native), Mandarin (native), Spanish (advanced), French (beginner)
+English (native), Mandarin (native), Spanish (advanced - B2), French (beginner)
