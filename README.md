@@ -8,8 +8,7 @@ In the professional realm, I have thrived in the healthcare industry as a projec
 
 Currently seeking new opportunities, I am eagerly on the lookout for roles that allow me to integrate quantitative approaches and their broader applications into operational problem solving.
 
-Click [here](https://www.linkedin.com/in/li-hwan-kao/){:target="_blank"}  
-to visit my LinkedIn page.
+Click [here](https://www.linkedin.com/in/li-hwan-kao/){:target="_blank"} to visit my LinkedIn page.
  
 Looking forward to connect!
 
