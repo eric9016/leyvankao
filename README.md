@@ -1,6 +1,6 @@
 # Vita
 
-#### Technical Skills
+### Technical Skills
 **Statistical and Data Analysis: Python, R, Stata**
 **Data Management and Visualization: SQL (MySQL), Tableau**
 **Microsoft Suite, LATEX, AWS**
