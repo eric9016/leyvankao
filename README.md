@@ -1,4 +1,4 @@
-Hello! Thank you for your interest. 
+**Hello!** Thank you for your interest. 
 
 My name is Eric and I am interested in bringing forth meaningful impact with economics and data science.
 
