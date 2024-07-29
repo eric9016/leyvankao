@@ -1,7 +1,9 @@
 # Vita
 
-### Technical Skills
-- Python (statistical analysis and econometric modeling), R, Stata, SQL, Microsoft Office, Tableau, LATEX
+#### Technical Skills
+**Statistical and Data Analysis: Python, R, Stata**
+**Data Management and Visualization: SQL (MySQL), Tableau**
+**Microsoft Suite, LATEX, AWS**
 
 ### Education
 - MA, Quantitative Economics | UCLA (_June 2024_)
