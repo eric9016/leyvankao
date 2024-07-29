@@ -52,4 +52,4 @@ biotechnology venture capital firms based in Asia and North America with product
 English (native), Mandarin (native), Spanish (advanced - B2), French (beginner)
 
 ### Social Media
-**[LinkedIn]**(https://www.linkedin.com/in/li-hwan-kao/)
+**[LinkedIn](https://www.linkedin.com/in/li-hwan-kao/)**
