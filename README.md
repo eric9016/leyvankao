@@ -23,7 +23,7 @@ Looking forward to connect!
 ## Education
 - MA, [Quantitative Economics](https://master.econ.ucla.edu/){:target="_blank"} | UCLA (_June 2024_)
 - BA, Economics & Diplomacy | National Chengchi University (_June 2018_)
-- Academic Studies Abroad, Economics | Universidad Carlos III de Madrid (_June 2017_)
+- Academic Exchange, Economics | Universidad Carlos III de Madrid (_June 2017_)
 
 ## Work Experience
 **Corporate Financial Data Analyst Intern @ Prime Healthcare (_Aug 2023 - Sep 2023, Ontario CA_)**
