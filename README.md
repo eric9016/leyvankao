@@ -16,7 +16,7 @@ Looking forward to connect!
 
 **Technical Skills**
 - **Statistical and Data Analysis:** Python, R, Stata
-- **Data Management and Visualization:** SQL (MySQL), [**Tableau**](https://public.tableau.com/app/profile/li.hwan.kao/viz/Final_dashboard_LiHwanKao/Dashboard1){:target="_blank"}
+- **Data Management and Visualization:** SQL (MySQL), [Tableau](https://public.tableau.com/app/profile/li.hwan.kao/viz/Final_dashboard_LiHwanKao/Dashboard1){:target="_blank"}
 - **Other:** Microsoft Suite, LATEX
 
 
