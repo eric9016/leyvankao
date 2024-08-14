@@ -19,6 +19,9 @@ Looking forward to connect!
 - **Data Management and Visualization:** SQL (MySQL), [Tableau](https://public.tableau.com/app/profile/li.hwan.kao/viz/Final_dashboard_LiHwanKao/Dashboard1){:target="_blank"}
 - **Other:** Microsoft Suite, LATEX
 
+**Certificates**
+- **HackerRank SQL Certificate: Intermediate**
+- **Bloomberg Market Concepts Certificate**
 
 ## Education
 - MA, [Quantitative Economics](https://master.econ.ucla.edu/){:target="_blank"} | UCLA (_June 2024_)
