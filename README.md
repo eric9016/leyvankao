@@ -20,8 +20,8 @@ Looking forward to connect!
 - **Other:** Microsoft Suite, LATEX
 
 **Certificates**
-- **HackerRank SQL Certificate: Intermediate**
-- **Bloomberg Market Concepts Certificate**
+- **HackerRank SQL Certificate: [Intermediate](https://www.hackerrank.com/certificates/e046705b4490){:target="_blank"}**
+- **Bloomberg Market Concepts [Certificate](https://portal.bloombergforeducation.com/certificates/6VKtiSnij2cKLv9zKEvhy3Ar){:target="_blank"}**
 
 ## Education
 - MA, [Quantitative Economics](https://master.econ.ucla.edu/){:target="_blank"} | UCLA (_June 2024_)
