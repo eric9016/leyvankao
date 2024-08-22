@@ -20,7 +20,7 @@ Looking forward to connect!
 - **Other:** Microsoft Suite, LATEX
 
 **Certificates**
-- **HackerRank SQL Intermediate [Certificate](https://www.hackerrank.com/certificates/e046705b4490){:target="_blank"}**
+- **HackerRank SQL [Intermediate](https://www.hackerrank.com/certificates/e046705b4490){:target="_blank"}**
 - **Bloomberg: [Market Concepts](https://portal.bloombergforeducation.com/certificates/6VKtiSnij2cKLv9zKEvhy3Ar){:target="_blank"}, [Finance Fundamentals](https://portal.bloombergforeducation.com/certificates/Uac5rVFjNfu7Lnc4U4oXkgiG){:target="_blank"}**
 
 ## Education
