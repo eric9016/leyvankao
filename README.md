@@ -21,7 +21,7 @@ Looking forward to connect!
 
 **Certificates**
 - **HackerRank SQL Intermediate [Certificate](https://www.hackerrank.com/certificates/e046705b4490){:target="_blank"}**
-- **Bloomberg Market Concepts [Certificate](https://portal.bloombergforeducation.com/certificates/6VKtiSnij2cKLv9zKEvhy3Ar){:target="_blank"}**
+- **Bloomberg: [Market Concepts](https://portal.bloombergforeducation.com/certificates/6VKtiSnij2cKLv9zKEvhy3Ar){:target="_blank"}, [Finance Fundamentals]([https://portal.bloombergforeducation.com/certificates/6VKtiSnij2cKLv9zKEvhy3Ar](https://portal.bloombergforeducation.com/certificates/Uac5rVFjNfu7Lnc4U4oXkgiG)){:target="_blank"}**
 
 ## Education
 - MA, [Quantitative Economics](https://master.econ.ucla.edu/){:target="_blank"} | UCLA (_June 2024_)
