@@ -15,7 +15,7 @@ Looking forward to connect!
 # Vita
 
 **Technical Skills**
-- **Statistical and Data Analysis:** Python, R, Stata
+- **Statistical and Data Analysis:** Python, R, Stata, Excel (Advanced: XLOOKUP, INDEX/MATCH, SUMIF/SUMIFS, SUMPRODUCT, LET, MAP, Pivot Tables)
 - **Data Management and Visualization:** SQL (MySQL), [Tableau](https://public.tableau.com/app/profile/li.hwan.kao/viz/Final_dashboard_LiHwanKao/Dashboard1){:target="_blank"}
 - **Other:** Microsoft Suite, LATEX
 
@@ -29,6 +29,11 @@ Looking forward to connect!
 - Academic Exchange, Economics | Universidad Carlos III de Madrid (_June 2017_)
 
 ## Work Experience
+**Corporate Financial Data Analyst @ Prime Healthcare (_Sep 2024 - Present, Ontario CA_)**
+- Contractual Pricing of Patient Reimbursement under Medicare/Medicaid and Fee-for-Service commercial contracts.
+- Patient Account Receivables (AR) valuation and analysis.
+- Special Projects (Finance)
+
 **Corporate Financial Data Analyst Intern @ Prime Healthcare (_Aug 2023 - Sep 2023, Ontario CA_)**
 - Contributed to Revenue Cycle Operations and Analysis by determining pricing for Medicare inpatient and outpatient
 services claims across 16 California-based hospitals. Additionally, developed and recommended process improvement strategies for pricing methodologies related to Medicare in-patient claims.
